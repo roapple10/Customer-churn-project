@@ -1,2 +1,2 @@
-# pycaret-demo-aieng
-pycaret-demo-aieng
+# Predict customer churn by using pycaret-d
+pycaret-demo
